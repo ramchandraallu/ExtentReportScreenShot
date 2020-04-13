@@ -1,0 +1,16 @@
+2020-04-12 23:33:55,410  INFO [main] AppTest:39 - Indide Before MEthod
+2020-04-12 23:34:42,194  INFO [main] AppTest:57 - open url
+2020-04-12 23:36:19,185 ERROR [main] AppTest:64 - taking longer time than expected
+2020-04-12 23:36:19,258  INFO [main] AppTest:77 - ***********************Started***********************************
+2020-04-12 23:36:19,537  INFO [main] AppTest:80 - ***********************Completed***********************************
+2020-04-12 23:36:32,311  WARN [main] AppTest:48 - Indide Afetr MEthod
+2020-04-12 23:36:34,208 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-12 23:36:34,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-12 23:36:34,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-12 23:36:34,229 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-12 23:36:34,231 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lalitha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-12 23:36:38,789 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-12 23:36:38,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-12 23:36:38,792 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-12 23:36:38,793 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-12 23:36:38,794 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Lalitha/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
